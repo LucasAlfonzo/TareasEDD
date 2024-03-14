@@ -1,6 +1,6 @@
-package fpuna.Lab1.Prueba;
+package fpuna.Lab2.Prueba;
 
-import java.math.BigInteger;
+// import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
